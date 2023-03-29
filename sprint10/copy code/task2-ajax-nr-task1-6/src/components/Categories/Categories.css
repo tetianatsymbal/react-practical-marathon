@@ -1,0 +1,17 @@
+
+.category_wrap {}
+
+.category_container {
+    margin: 0 auto;
+    width: 300px;
+}
+.category_container_flex {
+    display: flex;
+    justify-content: space-between;
+}
+.category_element {
+    width: 100px;
+    background-color: grey;
+    cursor: pointer;
+    text-align: center;
+}

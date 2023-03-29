@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Main Test",
+      "setup": "npm install",
+      "run": "HOME=. npx pm2 start npm -- start && CI=true npm test && HOME=. npx pm2 delete 0",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": null
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+.starships_wrap {
+    margin: 50px 0 0 0;
+}
+.starships_container {
+    width: 500px;
+    margin: 0 auto;
+}
+.starships_button {
+    width: 500px;
+    height: 50px;
+}
+.starships_container_flex {
+    display: flex;
+    justify-content: space-between;
+}
+.starships_img {
+    width: 200px;
+    height: 200px;
+}
+
+.starships_data_list {
+    width: 300px;
+    height: 200px;
+    margin: 0 auto;
+}
+.starships_title {}
+.starships_data_list_element {}

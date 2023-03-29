@@ -1,0 +1,27 @@
+.infoPage_wrap {
+    margin: 50px 0 0 0;
+}
+.infoPage_container {
+    width: 500px;
+    margin: 0 auto;
+}
+.infoPage_button {
+    width: 500px;
+    height: 50px;
+}
+.infoPage_container_flex {
+    display: flex;
+    justify-content: space-between;
+}
+.infoPage_img {
+    width: 200px;
+    height: 200px;
+}
+
+.infoPage_data_list {
+    width: 300px;
+    height: 200px;
+    margin: 0 auto;
+}
+.infoPage_title {}
+.infoPage_data_list_element {}
